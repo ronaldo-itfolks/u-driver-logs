@@ -6,11 +6,13 @@
 # Tasks
 * 1/3 "UCDFS-49"
 ```
-I finished the existing content analysis and concluded the initial code for the beginning of the creation of the components.
+I finished the existing content analysis and concluded the initial code,
+for the beginning of the creation of the components.
 ```
 * 2/3 "UCDFS-2"
 ```
-I created a component that generates a qr-code with the affiliation link to the platform/application!
+I created a component that generates a qr-code,
+with the affiliation link to the platform/application!
 ```
 * 3/3 "UCDFS-51"
 ```
@@ -30,7 +32,8 @@ using only one project!
 * 2/2
 ```
 I performed an analysis of the codes to verify what was ready for recycling!
-But with the final analysis I "Ronaldo" declare the current repository code obsolete and cumbersome! I chose to start from scratch with better settings for better performance, and it did.
+But with the final analysis I "Ronaldo" declare the current repository code obsolete and cumbersome!
+I chose to start from scratch with better settings for better performance, and it did.
 ```
 ---
 # 26/12/2022
